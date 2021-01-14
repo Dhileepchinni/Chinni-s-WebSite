@@ -1,0 +1,36 @@
+.m-1{margin:1rem}
+.my-1{margin:1rem 0}
+.p-1{padding:1rem}
+.py-1{padding:1rem 0}
+.m-2{margin:2rem}
+.my-2{margin:2rem 0}
+.p-2{padding:2rem}
+.py-2{padding:2rem 0}
+.m-3{margin:3rem}
+.my-3{margin:3rem 0}
+.p-3{padding:3rem}
+.py-3{padding:3rem 0}
+.m-4{margin:4rem}
+.my-4{margin:4rem 0}
+.p-4{padding:4rem}
+.py-4{padding:4rem 0}
+.m-5{margin:5rem}
+.my-5{margin:5rem 0}
+.p-5{padding:5rem}
+.py-5{padding:5rem 0}
+.x-large{font-size:4rem;line-height:1;margin-bottom:1rem}
+.large{font-size:2.6rem}
+.lead{font-size:1.1rem;line-height:1;margin-bottom:1rem;font-family:Arial, Helvetica, sans-serif}
+.btn{ font-family:Arial, Helvetica, sans-serif; font-size:1rem; cursor:pointer; border:none; outline:none; padding:0.5rem 1.3rem; transition:all 0.1s ease-in; -webkit-transition:all 0.1s ease-in; -moz-transition:all 0.1s ease-in; -ms-transition:all 0.1s ease-in; -o-transition:all 0.1s ease-in; }
+.btn.btn-dark{background-color:#f4f4f4;color:#333}
+.btn.btn-dark:hover{background:#3f474e}
+.btn.btn-primary{background-color:#17a2b8;color:#fff}
+.btn.btn-primary:hover{background:#1fc8e3}
+.btn.btn-danger{background-color:#dc3545;color:#fff}
+.btn.btn-danger:hover{background:#e04b59}.btn.btn-light{background-color:#f4f4f4;color:#333}.btn.btn-light:hover{background:#fff}.container{max-width:1100px;margin:auto;padding:5.9rem 8rem}.container a{text-decoration:none;color:blue;padding:0.45rem;margin:0 0.25rem}.container a:hover{color:black}.text-primary{color:#17a2b8}.bg-primary{background-color:#17a2b8;color:#fff}.bg-light{background-color:#f4f4f4;color:#333;border:#ccc 1px solid}.bg-dark{background-color:#343a40;color:#fff}.bg-success{background-color:#28a745;color:#fff}.bg-danger{background-color:#dc3545;color:#fff}.bg-white{background-color:#fff;color:#333;border:#ccc 1px solid}.dark-overlay{height:100%;width:100%;position:absolute;top:0;background-color:rgba(0,0,0,0.5)}.my1{font-weight:300;color:red;font-size:1rem;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;margin-top:7px}.sign{color:blue}.sign:hover{color:black}.alert{padding:0.8rem;margin:1rem;opacity:0.9}.alert.alert-primary{background-color:#17a2b8;color:#fff}.alert.alert-dark{background-color:#343a40;color:#fff}.alert.alert-success{background-color:#28a745;color:#fff}.alert.alert-danger{background-color:#dc3545;color:#fff}.round-img{border-radius:50%}.line{height:1px;background:#ccc;margin-top:0.7rem;margin-bottom:0.5rem}.badge{font-size:0.8rem;padding:0.1rem;text-align:center;margin:0.3rem;background:#f4f4f4;color:#333}.badge.badge-primary{background-color:#17a2b8;color:#fff}.badge.badge-dark{background-color:#343a40;color:#fff}.badge.badge-light{background-color:#f4f4f4;color:#333}.badge.badge-danger{background-color:#dc3545;color:#fff}.table th,.table td{padding:1rem;text-align:left}.table th{background:#f4f4f4}.table tr{font-family:Arial, Helvetica, sans-serif}.post-form-header{padding:0.5rem}.post{display:grid;grid-template-columns:1fr 4fr;grid-gap:3rem;align-items:center}.post>div:first-child{text-align:center;padding:1rem}.post img{width:100px}.form-group{margin-top:10px;margin-bottom:10px}.form-text{display:block;color:grey;margin-top:0.3rem}.form input[type='text'],.form input[type='email'],.form input[type='password'],.form input[type='date'],.form select,.form textarea{display:block;width:100%;font-size:1.1rem;padding:0.4rem;border:1px solid #ccc}.form .social-input{display:flex}.form .social-input i{padding:0.5rem;width:4rem}.form .social-input i.fa-twitter{color:#38a1f3}.form .social-input i.fa-facebook{color:#3b5998}.form .social-input i.fa-instagram{color:#db0e3b}.form .social-input i.fa-youtube{color:#c4302b}.form .social-input i.fa-linkedin{color:#0077b5}@media (max-width: 700px){.hide-sm{display:none}.container{margin-top:8rem}.x-large{font-size:3rem}.large{font-size:2rem}.lead{font-size:1rem}.navbar{display:block;text-align:center}.navbar ul{text-align:center;justify-content:center}.navbar h1{margin-bottom:1rem}.dash-buttons a{display:block;width:100%;margin-bottom:0.2rem}.profile{grid-template-columns:1fr;text-align:center}.profile ul{display:none}
+.profile-grid{grid-template-areas:'top'
+ 'about'
+ 'exp'
+ 'edu'
+ 'github'}.profile-about .skills{flex-direction:column}.post{grid-template-columns:1fr}.post a,.post button{padding:0.3rem 0.4rem}}*{box-sizing:border-box;margin:0;padding:0}body{font-family:'Raleway', 'sans-serif';font-size:1rem;line-height:1.6;background-color:#ffffff;color:#333}ul{list-style:none;font-family:Arial, Helvetica, sans-serif}img{width:100%}p{margin-left:7px}ul{margin-left:7px}.navbar{display:flex;align-items:center;justify-content:space-between;padding:0.7rem 2rem;position:fixed;width:100%;z-index:1;top:0;border-bottom:solid 2px black;opacity:1}.navbar ul{display:flex}.navbar a{text-decoration:none;color:#dc3545;padding:0.45rem;margin:0 0.25rem}.navbar a:hover{color:white}.landing{height:100vh;position:relative;background:url("https://images.indianexpress.com/2019/11/Soorari-Pottru-759.jpg")}.landing-inner{color:yellow;display:flex;flex-direction:column;margin:auto;width:80%;height:90%;align-items:center;justify-content:center}.profile{display:grid;grid-template-columns:2fr 4fr 2fr;grid-gap:2rem;padding:1rem;align-items:center;line-height:1.8;margin-bottom:1rem}.profile p{font-family:Arial, Helvetica, sans-serif}.profile a{text-decoration:none;color:#dc3545;padding:0.45rem;margin:0 0.25rem}.profile a:hover{color:white}.profile-grid{display:grid;grid-template-areas:'top top' 'about about' 'edu exp' 'github github';grid-gap:1rem}.profile-top{grid-area:top;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}.profile-top img{width:250px}.profile-top .icons a{color:#ffffff;margin:0, 0.3rem}.profile-top .icons a:hover{color:#17a2b8}.profile-about{grid-area:about;text-align:center}.profile-about .skills{display:flex;justify-content:center;text-align:center;align-items:center}.profile-exp{grid-area:exp}.profile-edu{grid-area:edu}.profile-edu>div,.profile-exp>div{margin-bottom:1rem;padding-bottom:1rem;border-bottom:#ccc 1px dotted}.profile-edu:last-child,.profile-exp:last-child{border:none}.profile-edu p,.profile-exp p{padding:0.5rem 0}.profile-github{grid-area:github}.profile-github .repo{display:flex}.profile-github .repo>div:first-child{flex:7;flex-basis:70%}.profile-github .repo>div:last-child{flex:3;flex-basis:20%}.profile-github .repo a{text-decoration:none;color:#dc3545;padding:0.45rem;margin:0 0rem}.profile-github .repo a:hover{color:black}.form-text{font-family:Arial, Helvetica, sans-serif}span{font-family:Arial, Helvetica, sans-serif}
+/*# sourceMappingURL=style.min.css.map */

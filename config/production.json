@@ -1,0 +1,7 @@
+{
+    "mongoURI":"mongodb+srv://chinni2122:chinni2122@devconnector.72ji6.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jsonSecret":"mysecret",
+    "githubClientId": "c92e26661ed33409e9d9",
+     "githubSecret": "8d72b5532440114398ede0f44152a67a6626401a" ,
+     "githubToken" : "2024401778592dc723020c9ab8db0549d1bb0c63"
+}
